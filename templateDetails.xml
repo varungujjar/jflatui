@@ -2,8 +2,8 @@
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
 <extension version="3.1" type="template" client="administrator">
 	<name>JFlat UI</name>
-	<version>1.0</version>
-	<creationDate>12/25/2017</creationDate>
+	<version>2.0</version>
+	<creationDate>12/25/2018</creationDate>
 	<author>Kenosis Solution</author>
 	<authorEmail>info@kenosis.in</authorEmail>
 	<copyright>Copyright (C) 2005 - 2015 Open Source Matters, Inc. All rights reserved.</copyright>
